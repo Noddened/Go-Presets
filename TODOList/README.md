@@ -25,7 +25,7 @@
 {
   "title": "Заголовок задачи",
   "description": "Описание задачи",
-  "completed": false,
+  "complete": false,
   "createdAt": "2023-01-01T00:00:00Z"
 }
 ```
